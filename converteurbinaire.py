@@ -3,6 +3,7 @@ def main():
 	val_numbers = [number]
 	rest = []
 	n = 0
+	s = []
 	while number >= 1:
 		div = int(number/2)
 		val_numbers.append(div)
