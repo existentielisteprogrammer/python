@@ -6,7 +6,7 @@ for _ in range(n):
 	temp = a
 	a = b
 	b = temp + b
-"""Now code will give exect length of n.For example for n=12 output will be 0
+"""Now code will give exact length of n.For example for n=12 output will be 0
 1
 1
 2
